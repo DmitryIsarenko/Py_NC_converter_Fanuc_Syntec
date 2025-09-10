@@ -1,0 +1,7 @@
+altgraph==0.17.4
+packaging==24.1
+pefile==2024.8.26
+pyinstaller @ file:///W:/%D0%A2%D0%B5%D1%85%D0%B1%D1%8E%D1%80%D0%BE/PyPackages/pyinstaller-6.10.0-py3-none-win_amd64.whl#sha256=95b55966e563e8b8f31a43882aea10169e9a11fdf38e626d86a2907b640c0701
+pyinstaller-hooks-contrib==2025.1
+pywin32-ctypes==0.2.3
+setuptools==75.1.0
